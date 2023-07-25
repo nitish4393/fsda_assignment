@@ -1,0 +1,81 @@
+Q1)What do you mean by cells in an excel sheet?
+
+Ans= In Excel sheet, "cells" refer to the individual rectangular boxes. Each cell is identified by a unique combination of a column letter and a row number, which creates a cell reference. 
+For example, cell A1 refers to the first cell in the first column, B4 refers to the cell in the second column and fourth row.Cells contain various types of data, such as numbers, text, dates,
+formulas, and functions. They are used to organize and store data in a structured manner, allowing us to perform calculations, analyze information, and create charts and reports.
+Cells can also be formatted to change their appearance, such as adjusting font styles, colors, cell borders, and more.In summary, cells in an Excel sheet are the individual units 
+where data is entered, manipulated, and displayed, forming the foundation of a spreadsheet's functionality.
+
+Q2)How can you restrict someone from copying a cell from your worksheet?
+
+Ans=Protect Worksheet with Password:
+ 1)Go to the "Review" tab in Excel.
+ 2)Click on "Protect Sheet."
+ 3)Set a password to protect the sheet.
+ 4)In the Protect Sheet dialog box, uncheck the "Select locked cells" option.
+ 5)Click "OK" to apply the protection.
+ 
+ This prevents users from selecting and copying cells that are locked. 
+
+Q3)How to move or copy the worksheet into another workbook?
+
+Ans=To move or copy a worksheet from one workbook to another in Excel, you can use the following steps:
+
+TO Move OR COPY Worksheet:-
+
+1)Open the source workbook.
+2)Right-click on the sheet tab at the bottom of the Excel window.
+3)From the context menu, select "Move or Copy."
+4)In the "Move or Copy" dialog box, choose the target workbook from the "To book" dropdown.
+5)Select the position within the target workbook where you want to move the worksheet to.
+6)Check the box labeled "Create a copy" if you want to leave a copy of the worksheet in the
+ source workbook. If you want to move the worksheet entirely, leave this box unchecked.
+7)Click "OK" to complete the move.
+
+Q4)In Microsoft Excel, the shortcut key used to open a new window (duplicate window) of the same workbook is:
+
+Ans= Alt + Shift + W
+
+When you press this key combination, Excel will open a new window displaying the same workbook, allowing you to
+view and work with different parts of the same file simultaneously. 
+  
+Q5)What are the things that we can notice after opening the Excel interface?
+
+Ans= After opening the Excel interface, there are several elements and features you can notice. Here are some of the main things you'll see:
+
+1)Ribbon: It is located at the top of the window and provides easy access to various commands and functions.
+
+2)Title Bar: The Title Bar is at the very top of the Excel window and displays the name of the workbook you have opened.
+
+3)Quick Access Toolbar: This is a customizable toolbar located above or below the Ribbon that contains frequently used commands. You can add or remove commands as per your preference.
+
+4)Worksheet Area: It consists of a grid of cells arranged in rows and columns where you can enter and manipulate data.
+
+5)Sheet Tabs: At the bottom of the Excel window, you will find sheet tabs, usually named "Sheet1," "Sheet2," etc. You can click on these tabs to switch between different worksheets in the same workbook.
+
+6)Formula Bar: The Formula Bar is just above the worksheet area and displays the contents of the currently selected cell. It is also used to enter or edit formulas and data.
+
+7)Status Bar: The Status Bar is at the bottom of the window and provides information about the current state of the worksheet, such as the sum, average, or count of selected cells, and various other status indicators.
+
+8)Zoom Slider: Located in the bottom right corner, the Zoom Slider allows you to adjust the zoom level of the worksheet to make it easier to view and work with.
+
+These are some of the main elements and features you'll notice when you first open the Excel interface. 
+
+Q6)When to use a relative cell reference in excel?
+
+Ans)In Excel, you use relative cell references when you want a formula or function to adjust automatically when copied or filled to other cells.
+.Here's when you would typically use a relative cell reference:
+
+1)Performing calculations across multiple cells.
+
+2)Creating formulas for structured data.
+
+3)Using formulas in tables.
+
+4)Applying conditional formatting: Relative cell references are used in conditional formatting rules, allowing the formatting to adjust as the rule is applied to different cells.
+
+5)Copying formulas across different worksheets: If you have similar data in multiple worksheets, relative cell references enable you to copy formulas between sheets, and the formulas will adjust based on the new location.
+
+To create a relative cell reference in a formula, simply refer to cells by their relative position, without using any dollar signs ($) before the column letter or row number.
+
+In summary, use relative cell references when you want your formulas to be flexible and adapt to different cell locations as you copy or fill them across your worksheet or workbook.
