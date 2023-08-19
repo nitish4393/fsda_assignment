@@ -1,0 +1,89 @@
+Q1. To use the ribbon commands, what menu and grouping of commands will you	find the Insert and Delete command?
+
+ANS.In Microsoft Excel, the "Insert" and "Delete" commands are commonly used actions, and they are found in the
+    "Cells" group under the "Home" tab of the ribbon menu. Here's how to access them:
+    Insert Command:
+    To insert cells, rows, columns, or sheets, follow these steps:
+
+	1)Go to the "Home" tab in the Excel ribbon at the top of the window.
+	2)Look for the "Cells" group. 
+	3)Within the "Cells" group, you will find the "Insert" button. Click on this button to 
+	access the options for inserting cells, rows, columns, or sheets.
+	Delete Command:
+
+	To delete cells, rows, columns, or sheets, follow these steps:
+
+	1)go to the "Home" tab in the Excel ribbon.
+	2)Locate the "Cells" group.
+	3)Within the "Cells" group, you'll find the "Delete" button.Click on this button to access the options for 
+	deleting cells, rows, columns, or sheets.
+	
+Q2. If you set a row height or column width to 0 (zero), what happens to the row and column?
+
+ANS.Setting a row height or column width to 0 (zero) in Excel will effectively hide the row or column. Here's what happens:
+
+	Row Height:
+
+	If you set the height of a row to 0, the entire row will become hidden, and its content will no longer be 
+	visible in the worksheet. However, the row isn't deleted; it's just hidden from view.
+	
+	Column Width:
+
+	If you set the width of a column to 0, the entire column will become hidden, and its content will no longer 
+	be visible in the worksheet. As with rows, the column isn't deleted; it's hidden from view.
+	While the content within the hidden rows or columns won't be visible on the worksheet, the data itself is not 
+	deleted or lost. You can unhide the rows or columns at any time using Excel's "Unhide" command.
+	
+Q3. Is there a need to change the height and width in a cell? Why?
+
+ANS.In Excel, you can change the height of rows and the width of columns to adjust the visual layout and formatting 
+	of your spreadsheet. Here are some reasons why you might want to change the height and width of cells:
+
+	1. Readability and Appearance:
+	Adjusting row height and column width can enhance the readability and appearance of your data. You can make text 
+	and numbers fit comfortably within cells without getting cut off or wrapped to the next line.
+
+	2. Formatting and Design:
+	Changing the height and width of cells can help you create a well-organized and aesthetically pleasing layout. 
+	This is particularly important when designing reports, tables, or charts where visual clarity is essential.
+
+	3. Merged Cells:
+	Merging cells often requires adjusting the height and width to accommodate the merged content properly. Merged
+	cells allow you to create larger cells by combining adjacent ones.
+
+	4. Alignment and Presentation:
+	Adjusting column width can help align data more effectively. For example, you might widen a column to display 
+	dates or labels more prominently.
+
+Q4. What is the keyboard shortcut to unhide rows?
+ANS.In Excel, you can use the keyboard shortcut Ctrl + Shift + 9 to unhide rows. This shortcut is used to quickly 
+	reveal any hidden rows within your worksheet. Simply select a cell in the row above and below the hidden rows, 
+	and then press Ctrl + Shift + 9 simultaneously. The hidden rows in between will be displayed again.
+	
+Q5. How to hide rows containing blank cells?
+
+ANS.To hide rows containing blank cells in Excel, you can use a filter to display only the rows with non-blank cells.
+	Here's how you can do it:
+
+	1)Select Your Data:
+	Click on a cell within the column that you want to filter. This column should contain the data you want to check
+	for blank cells.
+
+	2)Apply a Filter:
+	Go to the "Data" tab in the Excel ribbon. Click on the "Filter" button. This will add filter dropdown arrows to 
+	the header of each column.
+
+	3)Filter for Non-Blanks:
+	Click on the filter dropdown arrow for the column you want to filter. In the dropdown menu, uncheck the "Blanks" 
+	option. This will hide the rows with blank cells in that column.
+
+	4)View Filtered Data:
+	You will now see only the rows that have non-blank cells in the selected column. The rows with blank cells will 
+	be hidden from view.
+
+	Remember that when you use this method, only the rows with blank cells in the selected column will be hidden. 
+	If you want to hide rows based on blank cells in multiple columns, you would need to apply this filtering process
+	to each relevant column separately.
+
+	Additionally, be cautious when hiding rows with important data, as filtering can change the visibility of data but 
+	doesn't delete it. Hidden data can still affect calculations and other operations, so ensure that your data remains consistent with your intended use of the spreadsheet.
